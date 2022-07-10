@@ -1,2 +1,3 @@
-﻿# HerokuTest
-http://hisashiackerman.pythonanywhere.com/  URL for hosted webapp
+ 
+URL for hosted webapp
+http://hisashiackerman.pythonanywhere.com/  
